@@ -1,6 +1,10 @@
 # design-pattern-practice
 
 ## Creational Pattern
+### Factory and AbstractFactory
+![Factory](https://github.com/jianfeng0309/design-pattern-practice/blob/master/image/1520489174177.jpg)
+![AbstractFactory](https://github.com/jianfeng0309/design-pattern-practice/blob/master/image/1520489190570.jpg)
+
 ### Singleton
 #### Why singleton
 provides a way to access its only object which can be accessed directly without need to instantiate the object of the class
