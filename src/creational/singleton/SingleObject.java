@@ -8,7 +8,7 @@ import java.util.Random;
 public class SingleObject {
 
     private static SingleObject instance;
-    Message message;
+    private Message message;
 
     private SingleObject(Message message) {
         this.message = message;
