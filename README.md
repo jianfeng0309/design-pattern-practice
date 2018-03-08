@@ -9,3 +9,6 @@ provides a way to access its only object which can be accessed directly without 
 We create four thread to get instance of SingletonObject and run these threads
 ```synchronized(SingleObject.class)``` ensures the exclusive access between these thread so the Message instance inside SingletonObject should be the same
 So we see identical meesage in the console
+
+#### Note
+We also apply DI here to decouple these Classes
